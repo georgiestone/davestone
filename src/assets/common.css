@@ -1,0 +1,7 @@
+
+body { opacity: 0; font-family: "Crete Round", Georgia, "Trebuchet MS", tahoma, times, sans; font-size: 130%; line-height: 1.8em; }
+body.loaded { opacity: 1; transition: opacity 0.3s ease-in-out; }
+p { margin: 25px 0; }
+a { background-color: black; color: white; padding: 5px; }
+#wrapper { width: 720px; }
+small, strike { color: #999; }
